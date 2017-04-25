@@ -13,7 +13,7 @@ gems:
 
 # Settings
 exclude:              [CNAME, README.md, NOTES.md, LICENSE.md, .gitignore, package.json, bower.json, _js, _scss, _images, gulpfile.js, gulpconfig.js, node_modules, bower_components, gemfile, Gemfile.lock]
-permalink:            /:title/
+permalink:            /
 compress_html:
   clippings: all
   comments: all
@@ -25,7 +25,7 @@ tagline:              'Giving you all the cakes!'
 description:          'Change is a minimalist Jekyll theme <a href="https://madebyconnor.co/" target="_blank" rel="noopener noreferrer">Made by Connor</a>.'
 keywords:             'connor, baer, bear, designer, developer, traveller, design, code, jekyll, change, theme, for hire'
 url:                  https://ahikocake.github.io
-baseurl:              /change
+baseurl:              /
 assets:               /assets
 images:               /images/
 image:                index-large.jpg
